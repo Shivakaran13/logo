@@ -14,4 +14,4 @@ image = pipe(prompt, width=1000, height=1000).images[0]
 
 plt.imshow(image)
 plt.axis('off')  # Turn off axis numbers and ticks
-plt.show()s
+plt.show()
